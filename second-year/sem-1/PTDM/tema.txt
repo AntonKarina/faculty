@@ -1,0 +1,8 @@
+Pentru această lucrare se vor urmări cerințele din secțiunea 3.1 din secțiunea "Mersul lucrării" (secțiunile 3.1.1 și 3.1.2, subpunctele a și b). 
+
+Conținut fișier:
+
+Diagramele de timp reprezentate de mână (subpunctul a) din secțiunile 3.1.1 și 3.1.2);
+Calculele teoretice pentru atenuare, defazaj (subpunctul b) din secțiunea 3.1.1) și timpul de coborâre (subpunctul b) din secțiunea 3.1.2);
+Măsurătorile obținute cu ajutorul simulatorului, pentru atenuare, defazaj (subpunctul b) din secțiunea 3.1.1) și timpul de coborâre (subpunctul b) din secțiunea 3.1.2);
+Capturi de ecran cu diagramele simulate.
