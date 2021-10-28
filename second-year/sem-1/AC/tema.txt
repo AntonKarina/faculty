@@ -1,0 +1,7 @@
+1) Implementați, folosind limbajul Verilog, un convertor (BCD-8421) pornind de
+la următorul tabel de adevăr:
+2) Implementați, folosind limbajul limbajul Verilog, unmodul pentru detectarea
+multiplilor de 3 la intrările sale.
+3) Construiți, folosind limbajul Verilog, un modul care furnizează la ieșirea sa
+cea mai semnificativă cifră zecimală a numărului întreg fără semn conectat
+la intrarea sa.
