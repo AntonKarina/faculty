@@ -1,0 +1,9 @@
+Pb1. Această problemă aduce în discuție o situație de eroare sistematică (uneori numită eroare de
+metodă), prin care utilizarea unui multimetru nepotrivit aplicației de măsurare cauzează rezultate
+eronate. În montajul experimental din Fig.1.5 observăm următoarele componente: o sursă de tensiune
+continuă, Vin, care alimentează circuitul cu 6 V, două rezistențe conectate în serie (valori de sute de kΩ,
+toleranță 5%) și un voltmetru numeric care măsoară căderea de tensiune, în modul automat
+(AutoRange). Rezistența internă a voltmetrului, pe domeniul de măsură selectat, are valoarea de 1 MΩ.
+În manualul aparatului putem consulta specificația de incertitudine a măsurării, care pentru domeniile
+de 1 V, 3 V, 40 V și 400 V este de ± (0,5%+1).
+a) Care este domeniul de măsură pe care lucrează aparatul în mod automat?
