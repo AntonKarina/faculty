@@ -1,0 +1,9 @@
+1.3.Pentru semnalul x(t), tR+ se obține, în urma unor calcule în domeniul operațional, expresia 𝑥(𝑠) =
+2𝑠−1
+𝑠
+2(0.01𝑠+1)
+. Să se arate că semnalul original este x(t) = 2.01(1-e
+-100t
+) – t, tR+. Indicație: Se va
+descompune expresia lui x(s) în termeni de forma celor din tabelele de transformare, apoi se vor aduce
+termenii la forma din tabel, iar în final se folosește teorema de liniaritate a transformatei Laplace.
